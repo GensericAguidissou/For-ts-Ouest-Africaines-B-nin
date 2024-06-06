@@ -35,4 +35,4 @@ Les données ont été extraites de l’Évaluation des ressources forestières 
 
 ## Me contacter 📩
 
-Vous pouvez m'envoyer un mail à r"aguidissougenseric@gmail.com"
+Vous pouvez m'envoyer un mail à aguidissougenseric@gmail.com
