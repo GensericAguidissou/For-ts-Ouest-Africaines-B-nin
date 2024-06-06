@@ -31,8 +31,8 @@ Si les utilisateurs ont des questions ou rencontrent des problèmes avec ce proj
 Ce projet est actuellement maintenu par moi. Les contributions sont les bienvenues. Si vous êtes intéressé à contribuer, veuillez ouvrir une issue ou soumettre une pull request.
 
 ## D'où provient la Data ?
-Les données ont été extraites de l'Outil de surveillance et d’analyse des prix alimentaires (FPMA) V4 de FAO (https://fpma.fao.org/giews/fpmat4/#/dashboard/tool/domestic). Les données provenant de cet outil sont sous Licence Creative Commons.
+Les données ont été extraites de l’Évaluation des ressources forestières mondiales 2020 de la FAO.
 
 ## Me contacter 📩
 
-Vous pouvez m'envoyer un mail à aguidissougenseric@gmail.com
+Vous pouvez m'envoyer un mail à r"aguidissougenseric@gmail.com"
